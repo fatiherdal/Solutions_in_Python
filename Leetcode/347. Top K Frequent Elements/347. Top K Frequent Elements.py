@@ -21,5 +21,3 @@ def topKFrequent(self, nums, k):
         else:
             break
     return result
-    else:
-        return False
